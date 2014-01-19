@@ -1,0 +1,25 @@
+{
+  "name": "ng-watchers",
+  "main": "ng-watchers.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/namshi/ng-watchers",
+  "authors": [
+    "odino <alessandro.nadalin@gmail.com>"
+  ],
+  "description": "A simple function to count AngularJS watcher on the DOM",
+  "keywords": [
+    "angularjs",
+    "performance",
+    "debug",
+    "watchers"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/common/bower_components",
+    "test",
+    "tests"
+  ]
+}
